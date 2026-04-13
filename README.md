@@ -1,5 +1,3 @@
-<img width="1333" height="710" alt="image" src="https://github.com/user-attachments/assets/ca907168-50d1-49ac-8bff-6cbe2903b5cd" /># HR-Data-Analysis-Dashboard
-
 # HR Data Analysis Dashboard 📊
 
 This Power BI dashboard analyzes HR data including:
